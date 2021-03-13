@@ -55,8 +55,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\EnemyMover.cs" />
      <Compile Include="Assets\Scripts\CameraScript.cs" />
      <Compile Include="Assets\Scripts\PlayerScript.cs" />
+     <Compile Include="Assets\Scripts\DogController.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/User/Desktop/Unity/Tutorial 2/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
